@@ -127,42 +127,58 @@ Analyze salary data to uncover pay trends across roles, locations, and experienc
 
 ## 🏢 Virtual Experience & Extracurricular Activities
 
-### 🟦 Tata Group – Data Analytics Virtual Experience (Forage)
+### 🟪 Quantium – Data Analytics Virtual Experience (Forage)
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Tata_logo.svg" width="90" />
+  <img src="https://img.shields.io/badge/Quantium-Data%20Analytics-6A1B9A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Forage-Virtual%20Experience-0A66C2?style=flat-square" />
 </p>
+
+**Role:** Data Analytics Virtual Experience  
+**Employment Type:** Virtual Experience  
+**Duration:** Month–Year  
 
 **Work Done:**
 
-* Performed business-focused data analysis tasks
-* Cleaned datasets and identified key insights
-* Built dashboards and presented findings
+• Performed exploratory data analysis (EDA) on retail transaction data to identify customer purchasing trends.  
+• Analyzed store performance using **control vs trial store comparisons** to evaluate business impact.  
+• Created clear and meaningful data visualizations to communicate analytical insights.  
+• Summarized findings and delivered **actionable recommendations** to support data-driven decision-making.  
 
 **Skills Gained:**
-`Business Analysis` · `Data Cleaning` · `Visualization` · `Storytelling`
 
-📎 *Dashboard Screenshots:* [Attachment Link]
+`Commercial Thinking` · `Communication Skills` · `Data Analysis` · `Data Cleaning` ·  
+`Data Validation` · `Data Visualization` · `Presentation Skills` ·  
+`Programming (Python)` · `Statistical Analysis`
+
+📎 *Cetificate* [https://drive.google.com/file/d/1TD8RyX5J5a3z2wICp9zRS7vFuq9JSFRC/view?usp=sharing]
 
 ---
-
-### 🟩 Quantum University – Data Analytics Certification
+### 🟦 Tata Group – Data Visualization Virtual Experience (Forage)
 
 <p>
-  <img src="https://quantumuniversity.edu.in/assets/img/logo.png" width="120" />
+  <img src="https://img.shields.io/badge/Tata%20Group-Data%20Visualization-005BAC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Forage-Virtual%20Experience-0A66C2?style=flat-square" />
 </p>
+
+**Role:** Data Visualization Virtual Experience  
+**Employment Type:** Virtual Experience  
+**Duration:** Month–Year  
 
 **Work Done:**
 
-* Completed hands-on data analysis projects
-* Worked on real datasets using Python & Excel
-* Developed dashboards and reports
+• Analyzed business requirements and translated them into meaningful data visualizations.  
+• Designed charts and interactive dashboards to communicate insights to **executive-level stakeholders**.  
+• Identified key trends and patterns to support **strategic business decision-making**.  
+• Presented analytical findings using a clear, structured **data storytelling** approach.  
 
 **Skills Gained:**
-`Python` · `Power BI` · `Excel` · `SQL` · `Problem Solving`
 
-📎 *Project Screenshots & Files:* [Attachment Link]
+`Data Visualization` · `Business Analysis` · `Dashboard Design` ·  
+`Power BI` · `Data Interpretation` · `Storytelling` ·  
+`Communication Skills` · `Analytical Thinking`
 
+📎 *Cetificate* [https://drive.google.com/file/d/1TD8RyX5J5a3z2wICp9zRS7vFuq9JSFRC/view?usp=drive_link]
 ---
 
 ## 📜 Certifications
