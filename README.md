@@ -1,4 +1,4 @@
-# <p align="center">📊 Satya | Aspiring Data Analyst</p>
+# <p align="center">📊📈 Caiptan Satiya | Aspiring Data Analyst</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Turning%20Data%20into%20Insights&fontSize=48&animation=fadeIn&fontAlignY=35" width="100%" />
@@ -10,7 +10,7 @@
 
 ---
 
-## 🌟 About Me
+## 🌟 About Me 🕵🏻
 
 I am an **aspiring Data Analyst** currently pursuing **Master of Computer Applications (MCA)** from **Quantum University**. I am deeply passionate about working with data — from **cleaning and transforming raw datasets** to **analyzing trends, building dashboards, and presenting insights** that support better decision-making.
 
@@ -21,10 +21,12 @@ I enjoy working on **real-world datasets**, participating in **virtual internshi
 ## 🎓 Education
 
 * 🎓 **Master of Computer Applications (MCA)**
-  **Quantum University** | 2023 – Present
-  *Focus Areas:* Data Analysis, Python, Databases, Business Intelligence
+  **Quantum University** | 2025 – Present
+  <br>**Focus Areas:** Data Analysis, Python, Databases, Business Intelligence, SQL, Power BI, Excel 
 
-* 📘 **Bachelor’s Degree** *(Details can be added if needed)*
+* 📘 **Bachelor’s Degree**
+    **Banasthali Vidyapith** | 2022 – 2025
+    <br>**Focus Areas:** VB.Net, SQL, Python, JAVA, CCNA, Excel 
 
 ---
 
@@ -37,21 +39,30 @@ I enjoy working on **real-world datasets**, participating in **virtual internshi
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
+
 
 ### 📈 Business Intelligence & Visualization
 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
+
 
 ### 🗄️ Databases & Tools
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </p>
+
 
 ---
 
