@@ -135,7 +135,7 @@ Analyze vendor sales, inventory, and profit data to identify top and low-perform
 # 📌 Project 3: HR / Salary Data Analysis
 
 **Objective:**
-Analyze salary data to uncover pay trends across roles, locations, and experience levels.
+Analyze salary data to uncover compensation trends across roles, locations, and experience levels, enabling data-driven HR and workforce decisions.
 
 **Key Highlights:**
 
@@ -144,7 +144,7 @@ Analyze salary data to uncover pay trends across roles, locations, and experienc
 * Created clean visual reports for decision support
 
 **Skills Applied:**
-`Python` · `Excel` · `Data Visualization` · `Statistical Thinking`
+`Python` · `Excel` · `Data Visualization` · `Statistical Thinking`. `HR Analytics`
 
 🔗 *Repository:* [Link Here]
 
