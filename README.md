@@ -200,6 +200,8 @@ Power BI · Power Query · DAX · Data Visualization · Business Analytics · Ho
 
 ---
 
+https://github.com/CaiptanSatiya/Customer-Shopping-Behavior-Analysis
+
 ## 🏢 Virtual Experience & Extracurricular Activities
 
 ### 🟪 Quantium – Data Analytics Virtual Experience (Forage)
