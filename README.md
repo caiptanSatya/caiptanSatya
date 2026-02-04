@@ -232,7 +232,7 @@ Analyze salary data to uncover pay trends across roles, locations, and experienc
 `Data Storytelling` · `Stakeholder Communication`. 
 `Responsible & Explainable AI` · `Python` · `Statistical Analysis`
 
-📎 Certificate [https://drive.google.com/drive/folders/1DIsnBQIHzG16I2glnR0WNUOae3QjThkp]
+📎 Certificate [https://drive.google.com/file/d/1DluKDQqldJS8WfQOQunXGiH8EGczfj3G/view?usp=drive_link]
 
 ---
 
