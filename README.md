@@ -137,21 +137,6 @@ Analyze vendor sales, inventory, and profit data to identify top and low-perform
 **Objective:**
 This project focuses on analyzing HR attendance data and building an interactive Power BI dashboard aligned with real business and stakeholder requirements. The workflow follows an end-to-end BI lifecycle, from requirement gathering to final stakeholder review.
 
-**Dataset Overview **
-
-(Employee attendance )
-Daily status columns with values like:
-* P (Present)
-* WFH (Work From Home)
-* PL (Paid Leave)
-* SL (Sick Leave)
-* WO (Weekly Off)
-* HO (Holiday)
-* LWP (Leave Without Pay)
-* BL / FFL / BRL / ML (Special leave types)
-* Pre-calculated fields:
-Total Present Days
-
 **Key Highlights:**
 
 * Processed structured HR attendance datasets
@@ -184,20 +169,6 @@ Total Present Days
 
 ## Objective:
 This project focuses on analyzing OYO hotel performance data to evaluate revenue efficiency, occupancy trends, and pricing performance through an interactive Power BI dashboard. The solution is designed to support business and stakeholder decision-making using a structured BI approach.
-
-## Dataset Overview
-
-(OYO hospitality performance dataset)
-The dataset includes key operational and revenue metrics captured across multiple properties, cities, and time periods, such as:
-
-* Revenue
-* RevPAR (Revenue per Available Room)
-* ADR (Average Daily Rate)
-* Occupancy %
-* Realisation %
-* DSRN (Daily Sellable Room Nights)
-* Cancellation %
-* Average Customer Rating
 
 ## Key Highlights:
 
@@ -232,15 +203,6 @@ The dataset includes key operational and revenue metrics captured across multipl
 
 ## Objective:
 This project focuses on analyzing customer purchasing behavior and preferences to uncover insights related to product performance, customer demographics, and subscription adoption. An interactive dashboard was developed to support data-driven decisions across marketing, sales, and customer retention strategies.
-
-## 📊 Key Metrics Overview
-
-* Total Customers: 3,900
-* Average Purchase Amount: $59.76
-* Average Review Rating: 3.75
-* Subscription Distribution:
-* Subscribed Customers: 27%
-* Non-Subscribed Customers: 73%
 
 ## 🧭 Analysis Highlights
 🔹 Product Category Performance
