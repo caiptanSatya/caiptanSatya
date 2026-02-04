@@ -238,9 +238,11 @@ Analyze salary data to uncover pay trends across roles, locations, and experienc
 
 ## 📜 Certifications
 
-* 🏅 Data Analytics Certification – **Quantum University**
-* 🏅 Data Analytics Virtual Experience – **Tata (Forage)**
-* 🏅 Additional Data Analysis Certifications *(Links can be added)*
+* 🏅 Data Analytics – **CISCO** [https://drive.google.com/file/d/1zEzr8Sqx5QB4-7o1BlnKNVkuCYfHldMg/view?usp=drive_link]
+* 🏅 Data Visualization – **Kaggle** [https://drive.google.com/file/d/1MRWtymixzOfeBM7byZlWbu1E0cFsC_46/view?usp=drive_link]
+* 🏅 Data Cleaning - **Kaggle** [https://drive.google.com/file/d/1MS1ZM4EIcxVb7YpexW2_Clh-53hu_VBn/view?usp=drive_link]
+* 🏅 Analyzing Data with Powerbi -**Analytics Vidhya** [https://drive.google.com/file/d/1C6vano-vGBPye4zHLml0nY3Oxjdfnirw/view?usp=drive_link]
+* 🏅 Intro to Data Analytics - **SimpliLearn** [https://drive.google.com/file/d/17xO8uXYbAlRHgz6VTmtp5vWmBv7Gt5LL/view?usp=drive_link]
 
 ---
 
